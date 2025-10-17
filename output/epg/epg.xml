@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251017072725 +0800">
+<tv date="20251017102626 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -12560,6 +12560,12 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251017123500 +0800" stop="20251017140100 +0800">
 		<title lang="zh">落花洞新娘</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251017140100 +0800" stop="20251017144100 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251017144100 +0800" stop="20251017155900 +0800">
+		<title lang="zh">恐龙侵袭</title>
 	</programme>
 	<channel id="攀枝花新闻综合">
 		<display-name lang="zh">攀枝花新闻综合</display-name>
@@ -30476,6 +30482,9 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251017133700 +0800" stop="20251017141700 +0800">
 		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251017141700 +0800" stop="20251017155500 +0800">
+		<title lang="zh">惊爆缉捕令</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
